@@ -1,2 +1,2 @@
 console.log ("what i want to become ")
-console.log ("i want to become an Industrial AI/Automation developer")
+console.log ("My goal is to become an Industrial AI and Automation Developer")
